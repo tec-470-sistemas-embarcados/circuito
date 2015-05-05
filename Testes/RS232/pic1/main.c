@@ -28,8 +28,6 @@ void main(void)
 	
 	ConfiguraSistema(); 
 	ConfiguraUSART();
-	TransmitirMensagem(dado);
-//	Delay10KTCYx(10000000000);
 //	TransmitirMensagem(dado);
 	
 	LED = 0;

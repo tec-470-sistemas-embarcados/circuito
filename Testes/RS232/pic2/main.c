@@ -28,7 +28,7 @@ void main(void)
 	//Configura os registradores do PIC e receptor USART
 	ConfiguraSistema();
 	ConfiguraUSART();
-	//TransmitirMensagem(msg);
+	TransmitirMensagem(msg);
 	
 	
 	LED = 0;
