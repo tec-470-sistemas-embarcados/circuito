@@ -1,0 +1,22 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ConfiguraSistema	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto com interrupção\Projeto RS232 Final\RS232\pic1\main.c	18;"	p	line:18	file:	signature:(void)
+ConfiguraSistema	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto com interrupção\Projeto RS232 Final\RS232\pic1\main.c	45;"	f	line:45	signature:(void)
+ConfiguraUSART	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto com interrupção\Projeto RS232 Final\RS232\pic1\main.c	19;"	p	line:19	file:	signature:(void)
+ConfiguraUSART	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto com interrupção\Projeto RS232 Final\RS232\pic1\main.c	70;"	f	line:70	signature:(void)
+LED::PORTAbits.RA0	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto com interrupção\Projeto RS232 Final\RS232\pic1\main.c	10;"	d	line:10	file:
+RX::PORTCbits.RC7	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto com interrupção\Projeto RS232 Final\RS232\pic1\main.c	12;"	d	line:12	file:
+TX::PORTCbits.RC6	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto com interrupção\Projeto RS232 Final\RS232\pic1\main.c	11;"	d	line:11	file:
+TransmitirMensagem	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto com interrupção\Projeto RS232 Final\RS232\pic1\main.c	20;"	p	line:20	file:	signature:(char *)
+TransmitirMensagem	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto com interrupção\Projeto RS232 Final\RS232\pic1\main.c	87;"	f	line:87	signature:(char *msg)
+dado	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto com interrupção\Projeto RS232 Final\RS232\pic1\main.c	25;"	l	line:25
+i	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto com interrupção\Projeto RS232 Final\RS232\pic1\main.c	27;"	l	line:27
+main	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto com interrupção\Projeto RS232 Final\RS232\pic1\main.c	23;"	f	line:23	signature:(void)
+msg	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto com interrupção\Projeto RS232 Final\RS232\pic1\main.c	22;"	v	line:22
+receberMensagem	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto com interrupção\Projeto RS232 Final\RS232\pic1\main.c	97;"	f	line:97	signature:(void)
