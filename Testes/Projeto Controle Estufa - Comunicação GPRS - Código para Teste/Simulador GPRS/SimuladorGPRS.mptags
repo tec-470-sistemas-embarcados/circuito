@@ -1,0 +1,65 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ConfiguraSistema	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	140;"	f	line:140	signature:(void)
+ConfiguraSistema	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	48;"	p	line:48	file:	signature:(void)
+ConfiguraUSART	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	169;"	f	line:169	signature:(void)
+ConfiguraUSART	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	49;"	p	line:49	file:	signature:(void)
+D4::PORTDbits.RD4	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.h	97;"	d	line:97
+D5::PORTDbits.RD5	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.h	98;"	d	line:98
+D6::PORTDbits.RD6	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.h	99;"	d	line:99
+D7::PORTDbits.RD7	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.h	100;"	d	line:100
+DELAY_INICIO::18	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.h	120;"	d	line:120
+DELAY_SINC::6	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.h	119;"	d	line:119
+E_PIN::PORTDbits.RD3	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.h	110;"	d	line:110
+OpenXLCD	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.c	98;"	f	line:98	signature:(void)
+OpenXLCD	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.h	136;"	p	line:136	signature:(void)
+RS_PIN::PORTDbits.RD2	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.h	109;"	d	line:109
+RX::PORTCbits.RC7	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	17;"	d	line:17	file:
+Rx_Mensagem	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	214;"	f	line:214	signature:(void)
+SetDDRamAddr	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.c	293;"	f	line:293	signature:(unsigned char DDaddr)
+SetDDRamAddr	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.h	166;"	p	line:166	signature:(unsigned char DDAddr)
+TRIS_D4::TRISDbits.TRISD4	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.h	103;"	d	line:103
+TRIS_D5::TRISDbits.TRISD5	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.h	104;"	d	line:104
+TRIS_D6::TRISDbits.TRISD6	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.h	105;"	d	line:105
+TRIS_D7::TRISDbits.TRISD7	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.h	106;"	d	line:106
+TRIS_E::TRISDbits.TRISD3	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.h	115;"	d	line:115
+TRIS_RS::TRISDbits.TRISD2	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.h	114;"	d	line:114
+TX::PORTCbits.RC6	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	16;"	d	line:16	file:
+Transmitir	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	196;"	f	line:196	signature:(unsigned char msg[], int tam)
+Transmitir	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	50;"	p	line:50	file:	signature:(unsigned char msg[], int tam)
+Tx_Mensagem	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	203;"	f	line:203	signature:(unsigned char msg_serial)
+Tx_Mensagem	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	51;"	p	line:51	file:	signature:(unsigned char msg_serial)
+WriteCmdXLCD	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.c	193;"	f	line:193	signature:(unsigned char cmd)
+WriteCmdXLCD	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.h	145;"	p	line:145	signature:(unsigned char cmd)
+WriteDataXLCD	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.c	241;"	f	line:241	signature:(char data)
+WriteDataXLCD	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.h	155;"	p	line:155	signature:(char data)
+__MY_XLCD_H	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.h	77;"	d	line:77
+character_set	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	30;"	v	line:30
+cont	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	67;"	l	line:67
+data	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	41;"	v	line:41
+enter	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	34;"	v	line:34
+flag	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	66;"	l	line:66
+i	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	38;"	v	line:38
+j	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	40;"	v	line:40
+main	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	64;"	f	line:64	signature:(void)
+msg	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	37;"	v	line:37
+putIntXLCD	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.c	380;"	f	line:380	signature:(int valor)
+putIntXLCD	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.h	200;"	p	line:200	signature:(int valor)
+putrsXLCD	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.c	363;"	f	line:363	signature:(const rom char *buffer)
+putrsXLCD	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.h	190;"	p	line:190	signature:(const rom char *buffer)
+putsXLCD	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.c	343;"	f	line:343	signature:(char *buffer)
+putsXLCD	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.h	178;"	p	line:178	signature:(char *buffer)
+send::PORTBbits.RB1	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	18;"	d	line:18	file:
+sms_format	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	27;"	v	line:27
+sms_indication	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	29;"	v	line:29
+sms_terminate	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	33;"	v	line:33
+sms_write	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	28;"	v	line:28
+stringArray	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	32;"	v	line:32
+texto	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\my_xlcd.c	382;"	l	line:382
+timer	C:\Users\Andressa Moura\Desktop\Projeto Sistemas Embarcados\Projetos\Projeto Controle de Estufa\Projeto Controle Estufa - Comunicação GPRS\Simulador GPRS\main.c	42;"	v	line:42
